@@ -10,5 +10,4 @@ It is a simple C++ program that prints a welcome message.
 2. Compile using:
    ```bash
    g++ hello.cpp -o hello
-# todo-app
-My first project in github
+
